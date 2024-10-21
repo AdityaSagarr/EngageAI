@@ -7,12 +7,12 @@ from langchain_groq import ChatGroq
 
 # Initialize the ChatGroq model
 llm = ChatGroq(
-    model="mixtral-8x7b-32768",
+    model="llama-3.2-90b-vision-preview", # U CAN CHOOSE OTHER MODELS
     temperature=0,
     max_tokens=None,
     timeout=None,
     max_retries=2,
-    groq_api_key='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'
+    groq_api_key='your_groq_api_key'
 )
 
 def main():
