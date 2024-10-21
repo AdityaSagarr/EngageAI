@@ -58,11 +58,13 @@ pip install -r requirements.txt
 3. The generated email output will be displayed for copying.
 
 ### 📸 Project Screenshot
-![tuxpi com 1729519724](https://github.com/user-attachments/assets/84f934ff-c85b-44f5-9be7-7d81ad3dbc30)
+![tuxpi com 1729520032](https://github.com/user-attachments/assets/6682c959-05a4-46c4-8c0c-93394bfd098b)
 
 ### 🔧 Note
 
-Don’t forget to update model-related specifications in `app.py` to ensure optimal performance!
+* Don’t forget to update model-related specifications in `app.py` to ensure optimal performance!
+* This project assumes that you are Aditya, a business development executive at SynergySoft,which can be adapted for different consulting firms, allowing it to scale based on their unique business development strategies and client requirements
+
 
 ## Adaptability
 
