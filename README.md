@@ -57,6 +57,9 @@ pip install -r requirements.txt
 
 3. The generated email output will be displayed for copying.
 
+### 📸 Project Screenshot
+![tuxpi com 1729519724](https://github.com/user-attachments/assets/84f934ff-c85b-44f5-9be7-7d81ad3dbc30)
+
 ### 🔧 Note
 
 Don’t forget to update model-related specifications in `app.py` to ensure optimal performance!
